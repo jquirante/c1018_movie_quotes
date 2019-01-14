@@ -1,14 +1,14 @@
 # React Starter
 
-> This repo contains boilerplate code to aid in the creation of a new React app with Redux. Follow the below setup instructions to get started.
+> Demo project for Higher Order Components (HOCs) and user authentication in ReactJS
 
 ### Setup Instructions
 
 > 1. Fork this repo
 > 1. Clone your forked copy of this repo
->    - `git clone https://github.com/[Your Username]/react_starter.git`
+>    - `git clone https://github.com/[Your Username/c1018_movie_quotes.git`
 > 1. Change directory into the newly cloned repo
->    - `cd react_starter`
+>    - `cd c1018_movie_quotes`
 > 1. Install dependencies 
 >    - `npm install`
 > 1. Start dev server
