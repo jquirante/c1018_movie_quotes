@@ -19,7 +19,7 @@ const App = () => (
             <Route path="/about" component={About}/>
             <Route exact path="/movie-list" component={MovieList}/>
             <Route path="/movie-list/:type" component={MovieList}/>
-            <Route path="/movie-quote" component={MovieQuote}/>
+            <Route path="/movie-quotes" component={MovieQuote}/>
             <Route path="/sign-in" component={SignIn}/>
             <Route path="/sign-up" component={SignUp}/>
         </div>

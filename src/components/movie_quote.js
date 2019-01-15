@@ -1,4 +1,5 @@
 import React, { Component } from 'react';
+import auth from '../hoc/auth';
 
 class MovieQuote extends Component {
     render() {
